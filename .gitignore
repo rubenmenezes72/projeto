@@ -1,0 +1,10 @@
+# Dependence Files
+node_modules
+
+# Production Files
+filelog.txt
+web.config
+
+# Test Files
+coverage
+/test/stress/out
