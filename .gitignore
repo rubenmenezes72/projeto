@@ -1,5 +1,7 @@
 # Dependence Files
 node_modules
+/.pnp
+.pnp.js
 
 # Production Files
 filelog.txt
